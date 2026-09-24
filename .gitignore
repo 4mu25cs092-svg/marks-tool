@@ -1,9 +1,8 @@
 # Secrets and local settings
 .env
 # Python build artefacts
-__Pycache__/
+__pycache__/
 *.pyc
 # Editor and OS files
 *~
 .vscode/
-
